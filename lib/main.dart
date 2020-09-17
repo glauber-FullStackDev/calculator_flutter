@@ -48,7 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Container(),
           ),
           Expanded(
-            flex: 2,
+            flex: 3,
             child: Container(
               child: GridView.builder(
                 itemCount: buttons.length,
